@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url(../new-year-new-me-main/images/banner/banner2.png);
+    background-position: center center;
+    text-align: right ;
+    background-repeat: no-repeat ;
+    
+}
+          /*----banner section---*/
+.banner-title{
+    margin-top: 300px;
+    margin-left: 300px;
+    font-size: 40px;
+    margin-bottom: 45px;
+}
+.banner{
+    margin:0 250px;
+    display: flex;
+    padding:0 20px 20px 20px;
+    text-align: flex;
+    
+    
+}
+.banner-description{
+    font-weight:600;
+    font-size: 20px;
+    color:green;
+    margin-top:30px ;
+    margin-left: 300px;
+    margin-bottom: 25px;
+    
+    
+    
+}
+.button-primary{
+    margin-bottom: 200px;
+    background: #F15B22;
+     border-radius: 5px;
+     font-size: 15px;
+    width: 120px;
+     height: 64px;
+     padding: 20px;
+    color: white;
+}
+main{
+    
+    margin: 0 auto;
+    
+}
+ /*---failures section-- */
+.failures{
+    margin-top: 50px; 
+    display: flex;
+    
+}
+.my-failures{
+    padding: 130px 150px;
+    border-radius: 10px;
+    
+}
+         
+
+.section-title{
+    margin-top: 200px;
+    font-weight: 700;
+    font-size: 60px;
+    margin-left: 150px;
+    
+}
+.section-description{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-weight: 500;
+    font-size: 40px;
+    color: gray;
+}
+.section-para{
+    margin-top:30px;
+    margin-left: 150px;
+    font-weight: 400;
+    font-size:30px;
+    color: gray;
+}
+
+.section-img{
+    margin-top: 150px;
+    margin-right: 100px;
+    width: 569px;
+     height: 723px;
+    border-radius: 50px;
+}
+    /*---my plan---- */
+.my-plan{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.plan {
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: 80px;
+}
+.part-of-plan{
+    font-size:20px;
+    color:gray;
+}
+.part-of-plan .plan-title{
+    font-size: 20px;
+    color: black;
+}
+/*-contact section--*/
+.contact{
+    margin-top:200px;
+    margin-left: 400px;
+    
+    padding:50px 20px 50px 20px;
+    background-repeat: no-repeat;
+    background-image: url(/new-year-new-me-main/images/gradient1.png),url(/new-year-new-me-main/images/watch.png)
+    
+}
+.contact-title{
+    
+     font-size: 70px;
+     margin-left: 100px;
+     color:coral;
+     
+}
+.btn-primary{
+    color:coral;
+    margin-left:100px ;
+    margin-top: 20px;
+    padding: 15px 20px;
+    font-weight: 300px;
+}
+ /*----about section--- */
+.about-myself{
+    background-color: #6B5B95;
+    margin-left: 100px;
+    margin-right:100px;
+}
+.name{
+    font-size: 40px;
+    margin-left: 700px;
+    margin-top: 2em;
+    font-family:  'Courier New', monospace;
+    padding-top: 2em;
+}
+.description{
+    margin-left:300px;
+    margin-top:30px;
+    font-size:30px ;
+    font-family:  'Courier New', monospace;
+}
+.social{
+    margin-left:500px;
+    margin-top:30px;
+    size:200px;
+}
+.sub-description{
+    font-family:  'Courier New', monospace;
+    margin-left: 300px;
+    font-size: 30px;
+    font-weight:20px;
+    margin-top: 15px;
+}
+.end{
+    font-family: 'Courier New', monospace;
+    font-size:20px;
+    margin-top: 15px;
+    margin-left:400px;
+    
+}
